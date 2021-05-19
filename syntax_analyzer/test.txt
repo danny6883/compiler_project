@@ -1,0 +1,3 @@
+class myclass{int i = 5;}
+boolean abc = true;
+int i = a * (4 + i);

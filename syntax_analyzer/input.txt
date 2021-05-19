@@ -1,0 +1,11 @@
+int abc0;
+String my_id = hello2;
+int fun (int a, int b){
+    if (true) {a = 1;} else {b = 1;}
+    while(false) { boolean c = false;}
+    return 0;
+}
+class myclass {
+    int my_a = -10; 
+    boolean my_b(char my_c, int my_d){return true;}
+}
